@@ -5,7 +5,7 @@ public class InputStreamReader {
 
         try{
             java.io.InputStreamReader isr = new java.io.InputStreamReader(System.in);
-            System.out.println("Enter some Letters");
+            System.out.println("Trying buffered Reader");
             int letters = isr.read();
             while(isr.ready())
             {
