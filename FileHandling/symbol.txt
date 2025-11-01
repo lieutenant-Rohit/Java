@@ -1,1 +1,1 @@
-ᛞ
+Hello!.... Writing using FileOutputStream..
